@@ -18,18 +18,11 @@ This project demonstrates how **real-time market data** can be leveraged for **b
 smartphone-market-analysis/
 │── data/                 # Sample cleaned dataset (CSV)
 │── notebooks/            # Jupyter notebooks for scraping & cleaning
-│── scripts/              # Python scripts (scraping, transformation)
-│── reports/              # Power BI exports (PDF, PNG, PBIX file)
+│── reports/              # Power BI exports 
 │── README.md             # Project documentation
-│── requirements.txt      # Python dependencies
-│── .gitignore            # Ignored files/folders
+│── web_scrapping.md      # Scrap overview 
+
 ```
-
----
-
-### 📸 Dashboard Preview  
-(Add screenshot here after uploading Power BI dashboard)  
-`reports/dashboard.png`  
 
 ---
 
@@ -44,7 +37,7 @@ smartphone-market-analysis/
 ### 🛠️ Tech Stack  
 - **Python** → Requests, BeautifulSoup, pandas  
 - **Power BI** → Dashboard building & visualization  
-- **Git & GitHub** → Version control & collaboration  
+- **GitHub** → Version control & collaboration  
 
 ---
 
