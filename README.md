@@ -1,6 +1,6 @@
-# 📊 Smartphone Market Analysis – Web Scraping & Power BI Dashboard  
+## 📊 Smartphone Market Analysis – Web Scraping & Power BI Dashboard  
 
-## 🚀 Project Overview  
+### 🚀 Project Overview  
 Smartphones are one of the most competitive product categories, with hundreds of models across different brands, price ranges, and feature sets.  
 
 This project showcases a complete **data analysis pipeline** where raw online data is transformed into actionable insights:  
@@ -13,7 +13,7 @@ This project demonstrates how **real-time market data** can be leveraged for **b
 
 ---
 
-## 📂 Repository Structure  
+### 📂 Repository Structure  
 ```
 smartphone-market-analysis/
 │── data/                 # Sample cleaned dataset (CSV)
@@ -27,13 +27,13 @@ smartphone-market-analysis/
 
 ---
 
-## 📸 Dashboard Preview  
+### 📸 Dashboard Preview  
 (Add screenshot here after uploading Power BI dashboard)  
 `reports/dashboard.png`  
 
 ---
 
-## 🔑 Key Insights from the Dashboard  
+### 🔑 Key Insights from the Dashboard  
 - 📈 **Price Segmentation** → Differences across budget, mid-range, and premium smartphones.  
 - 🏷️ **Brand Comparison** → Which brands dominate each pricing segment.  
 - ⚡ **Feature vs Price Analysis** → How specifications (RAM, storage, camera, battery) influence pricing.  
@@ -41,14 +41,14 @@ smartphone-market-analysis/
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 - **Python** → Requests, BeautifulSoup, pandas  
 - **Power BI** → Dashboard building & visualization  
 - **Git & GitHub** → Version control & collaboration  
 
 ---
 
-## 📖 About This Project  
+### 📖 About This Project  
 This repository is part of my **data analyst portfolio**, built to replicate **real-world workflows**:  
 
 1. Collect raw data from online sources.  
@@ -59,26 +59,15 @@ By combining **automation (Python)** with **visual storytelling (Power BI)**, th
 
 ---
 
-## ⚙️ How to Reproduce This Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/<your-username>/smartphone-market-analysis.git
-   cd smartphone-market-analysis
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the scraping script to collect fresh data:  
-   ```bash
-   python scripts/scrape_flipkart.py
-   ```
-4. Open the Power BI file (`reports/Smartphone_Dashboard.pbix`) to explore the dashboard.  
+## 🌟 About Me  
+Hi, I’m **Meshva Patel**
+
+A **Data Analyst** and **aspiring Data Scientist** with a passion for uncovering stories hidden in data. My journey is all about exploring how data shapes strategy, and each project helps me grow closer to that goal.  
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meshvaapatel/) or explore more of my work on [GitHub](https://github.com/meshvaapatel/), or reach out via email at meshvapatel.ds@gmail.com.
 
 ---
 
-## 📬 Contact  
-👤 **Mesh** – Data Scientist  
-📧 Reach me on [LinkedIn](https://www.linkedin.com) or [GitHub](https://github.com/your-username)  
+## 📌 Tags
 
----
+`#web-scraping` `#python` `#DataAnalytics` `#PortfolioProject` `#dashboard ` `#business-intelligence`
