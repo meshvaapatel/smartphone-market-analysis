@@ -5,9 +5,9 @@ Smartphones are one of the most competitive product categories, with hundreds of
 
 This project showcases a complete **data analysis pipeline** where raw online data is transformed into actionable insights:  
 
-- 🔎 **Data Collection** – Scraped live smartphone listings from Flipkart using Python.  
-- 🧹 **Data Cleaning & Transformation** – Processed raw HTML into structured datasets using pandas.  
-- 📊 **Interactive Visualization** – Built a Power BI dashboard to analyze **pricing trends, feature-performance comparisons, and brand dominance**.  
+- **Data Collection** – Scraped live smartphone listings from Flipkart using Python.  
+- **Data Cleaning & Transformation** – Processed raw HTML into structured datasets using pandas.  
+- **Interactive Visualization** – Built a Power BI dashboard to analyze **pricing trends, feature-performance comparisons, and brand dominance**.  
 
 This project demonstrates how **real-time market data** can be leveraged for **business decision-making**.  
 
